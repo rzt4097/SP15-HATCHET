@@ -14,4 +14,4 @@ If your main stock pivot is too stiff, try cutting one coil off of the spring
 A lot of the tolerances involved in the stock are a little touchy, so let me know how it prints on your machine (discord Rzt4097#0018)
 
 The license chosen technically allows anyone to sell this design unconditionally. That said, as the designer I know a thing or two that might be helpful in production. Some sort of design royalties would also be appreciated (though again, not strictly required). If you want to sell these, go ahead and shoot me a message on the aforementioned discord.
-
+If you want to leave a tip for whatever reason, I'm at paypal.me/rzt4097
