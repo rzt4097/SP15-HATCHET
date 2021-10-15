@@ -1,4 +1,5 @@
 # SP15-HATCHET
+![PXL_20210816_182233103](https://user-images.githubusercontent.com/88881180/137439393-f879046e-216d-4f70-9615-59a190bccbbb.jpg)
 The SP-15 Hatchet is an open source, half dart miniwheel (hurricane/pulsar) flywheel platform that feeds from straight talons or tachis, and is styled after the Alternator from Titanfall 2. It fires with a semi-auto, manual pusher (think gryphon), and is compatible with straight 15 round talons, curved 18 round talons, and curved 29 round tachis. The design is licensed GNU GPL 3.0, allowing for derivatives and sales as long as all derivatives are also licensed GNU GPL. 
 
 Hardware list: https://docs.google.com/spreadsheets/d/1HlWKCgYTM-vH4aCf_Uie14dvCVxY2v4TGdShvIBsOQo/edit?usp=sharing
@@ -15,3 +16,4 @@ A lot of the tolerances involved in the stock are a little touchy, so let me kno
 
 The license chosen technically allows anyone to sell this design unconditionally. That said, as the designer I know a thing or two that might be helpful in production. Some sort of design royalties would also be appreciated (though again, not strictly required). If you want to sell these, go ahead and shoot me a message on the aforementioned discord.
 If you want to leave a tip for whatever reason, I'm at paypal.me/rzt4097
+
